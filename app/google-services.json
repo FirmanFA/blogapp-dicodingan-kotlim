@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577932662242",
+    "firebase_url": "https://dicodingan.firebaseio.com",
+    "project_id": "dicodingan",
+    "storage_bucket": "dicodingan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577932662242:android:b5b49104220988795995bb",
+        "android_client_info": {
+          "package_name": "com.dicodingan.dicodingan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577932662242-0846kldo7mkc6ceqgu6cl5i57a718beu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFoDRgmDkI7NN9BQFlyBTawTSzB_mRt4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577932662242-0846kldo7mkc6ceqgu6cl5i57a718beu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
